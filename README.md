@@ -1,3 +1,6 @@
+Example Voting App
+==================
+
 Getting started
 ---------------
 test pull branch
